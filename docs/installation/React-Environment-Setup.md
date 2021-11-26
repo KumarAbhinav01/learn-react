@@ -14,7 +14,7 @@ In this section, we will learn how to set up an environment for the successful d
 
 Well for beginners I don't this we should go much deep into this and we should just stick with the simple process. 
 
-## Get Started Immediately#
+## Get Started Immediately
 You don’t need to install or configure tools like webpack or Babel. They are preconfigured and hidden so that you can focus on the code.
 
 Create a project, and you’re good to go.
