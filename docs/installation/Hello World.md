@@ -35,6 +35,13 @@ cd react-tutorial && npm start
 ```
 Once you run this command, a new window will popup at **[localhost:3000](http://localhost:3000)** with your new React app.
 
+:::tip Note
+If you face any issue during this step then just follow the below instructions.
+1. create a `.env` at the root of the folder react folder
+2. type `SKIP_PREFLIGHT_CHECK=true` inside of .env file
+3. now run in cmd `npm start` .
+:::
+
 If you look into the project structure, you'll see a /public and /src directory, along with the regular node_modules, .gitignore, README.md, and package.json.
 
 In /public, our important file is index.html, which is very similar to the static index.html file we made earlier - just a root div. This time, no libraries or scripts are being loaded in. The /src directory will contain all our React code.
