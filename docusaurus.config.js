@@ -106,7 +106,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Learn React, Inc. Built with 💛 by Abhi`,
+        copyright: `Copyright © ${new Date().getFullYear()} Learn React. Built with 💛 by Abhi`,
       },
       prism: {
         theme: lightCodeTheme,
