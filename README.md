@@ -1,6 +1,6 @@
-# Website
+# Learn React
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Hi there! I am going to [learn React](https://learn-react-abhi6722.vercel.app/docs/intro) starting from today and I am going to update this documentation regularly and share everything along my learning journey. This will not just some theoritical guide rather it will be more like a project based guide in which I will Learn by doing. Let's start this journey on a high note. This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. 
 
 ### Installation
 
